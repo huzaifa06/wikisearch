@@ -11,8 +11,3 @@ class stopwords():
         if word in self.stopwords:
             return True
         return False
-
-
-
-
-
